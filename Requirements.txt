@@ -4,3 +4,7 @@ Emojis
 Fonts
 Colors
 Type options
+
+Dark mode
+Video call
+voice recording
