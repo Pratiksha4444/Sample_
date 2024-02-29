@@ -1,0 +1,6 @@
+This is chat application
+
+Emojis
+Fonts
+Colors
+Type options
