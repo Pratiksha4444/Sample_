@@ -8,3 +8,7 @@ Type options
 Dark mode
 Video call
 voice recording
+
+Payments
+Send money
+receive money
